@@ -1,0 +1,34 @@
+[
+  {
+    "value": "chocolate chip",
+    "synonyms": [
+      "chocolate chip",
+      "chocolatechip"
+    ]
+  },
+  {
+    "value": "peanut butter",
+    "synonyms": [
+      "peanut butter",
+      "peanutbutter"
+    ]
+  },
+  {
+    "value": "shortbread",
+    "synonyms": [
+      "shortbread"
+    ]
+  },
+  {
+    "value": "gingersnaps",
+    "synonyms": [
+      "gingersnaps"
+    ]
+  },
+  {
+    "value": "Oatmeal raisin",
+    "synonyms": [
+      "Oatmeal raisin"
+    ]
+  }
+]

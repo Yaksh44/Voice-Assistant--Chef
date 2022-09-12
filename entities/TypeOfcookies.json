@@ -1,0 +1,9 @@
+{
+  "id": "8d1c8b59-f3ea-48f3-9a51-a81d8f909610",
+  "name": "TypeOfcookies",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}
