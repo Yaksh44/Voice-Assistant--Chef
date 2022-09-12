@@ -1,0 +1,64 @@
+{
+  "id": "11adb17c-6811-4c8f-8034-c62f0d866e27",
+  "name": "getIngredientsIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a152f5e1-49e3-4034-8d1c-cf9c05026552",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "60b84557-fa34-4855-ae7d-0321361e7e5d",
+          "name": "typeofcookies",
+          "required": false,
+          "dataType": "@TypeOfcookies",
+          "value": "$typeofcookies",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You will need 2 cups all purpose flour, 1 teaspoon baking soda, 1 cup unsalted butter very soft, 1 cup white sugar, 1 large egg, 2 tablespoons milk, 2 cups semisweet chocolate chips and 1 teaspoons vanilla extract."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
